@@ -4,6 +4,6 @@
 
   object hola {
     def main(args: Array[String]){
-      println("hola a todos")
+      println("Hi everyone!!!")
     }
   }
